@@ -140,3 +140,13 @@ nav ul li a {
     margin-top: 15px;
     font-size: 17px;
 }
+.subtitulo h3 {
+font-size: 25px;
+margin-top: 12px;
+margin-left: 65px;
+}
+.texto p {
+
+    font-size: 20px;
+    padding: 10px;
+}
